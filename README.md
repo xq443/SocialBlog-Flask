@@ -1,0 +1,8 @@
+- Complete guide to developing fully functional websites with Flask with HTML, CSS, and Bootstrap 4.
+- Python refresher covering basics to advanced features (functions, decorators, OOP).
+- Building landing pages with Flask and connecting them to HTML, CSS, and Bootstrap templates.
+- Using Jinja template engine for front-end customization.
+- Creating forms and connecting them to SQL databases.
+- Complete Social Network project with features like user logins, followers, authentication, and more.
+- Structuring large Flask applications with Blueprints.
+- REST APIs with Flask and accepting payments with Stripe.
